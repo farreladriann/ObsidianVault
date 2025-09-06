@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "11f78abaaf038027",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ea2a08c145a162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c33bfe956f4aa64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d982d63c67f780e",
+    "type": "split",
+    "children": [
+      {
+        "id": "01247653df9e5746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab3b7609a759607",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c18c872915e861fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f14f98c9c92333c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "9566419f05eb97ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "702ec7641ac3a687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05dfc3f2d8f81cd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "50aba2a4e2aa001d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "43d5820beba6ab65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60a64d4b05f814a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8c33bfe956f4aa64",
+  "lastOpenFiles": [
+    "EFEKTIVITAS BELAJAR.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "2025-09-06.md",
+    "DIALEKTIKA.md",
+    "LOGIKA.md",
+    "SLEEP-DEPENDENT CONSOLIDATION.md",
+    "NEURATH BOATS.md",
+    "HUKUM BATAS KOGNITIF.md",
+    "INDUKSI & DEDUKSI.md",
+    "HUKUM DISSONASI BELAJAR.md",
+    "INTEGRASI BELAJAR.md",
+    "HUKUM KONSOLIDASI MEMORI.md",
+    "BIG PICTURE.md",
+    "HUKUM EMOSI & MOTIVASI BELAJAR.md",
+    "LEARN BY FIRST PRINCIPLES.md",
+    "SELF CONCEPT.md",
+    "MELIHAT LEBIH DARI SEKEDAR SIMBOL.md",
+    "4 PILAR KEBIASAAN.md",
+    "ACTIVE LEARNING.md",
+    "MIND MAPPING.md",
+    "HUKUM CONNECTED KNOWLEDGE.md",
+    "KATEGORISASI.md",
+    "DELIBERATE PRACTICE.md",
+    "Untitled"
+  ]
+}
