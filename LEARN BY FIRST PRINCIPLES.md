@@ -1,1 +1,1 @@
-[[HUKUM CONNECTED KNOWLEDGE]]
+**First principles** nya di sini penting karena membangun pengetahuan yang akan banyak nyambung ke pengetahuan lainnya sesuai [[HUKUM CONNECTED KNOWLEDGE]].

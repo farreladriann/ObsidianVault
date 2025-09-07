@@ -1,8 +1,7 @@
 
 ilmu tentang bentuk inferensi (penarikan kesimpulan) yang sahih.
+study of reasoning
 
-penarikan kesimpulan erat kaitannya dengan pengkoneksian pengetahuan [[HUKUM CONNECTED KNOWLEDGE]]. 
-Contohnya jika P maka Q, dan P terjadi, maka Q terjadi.
-Di sini P dan Q berupa knowledge.
-atau jika P dan Q maka R 
-P dan Q benar, maka R
+reasoning erat kaitannya dengan pengkoneksian pengetahuan [[HUKUM CONNECTED KNOWLEDGE]]
+
+Di[[KATEGORISASI]] menjadi [[LOGIKA FORMAL]] dan [[LOGIKA INFORMAL]]
